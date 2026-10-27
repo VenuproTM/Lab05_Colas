@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.sourcelink.json
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.exe
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.deps.json
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.runtimeconfig.json
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.dll
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.pdb
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.dll
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\refint\ColasApp.dll
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.pdb
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lab05_Colas\ColasApp\obj\Debug\net10.0\ref\ColasApp.dll
