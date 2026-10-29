@@ -1,0 +1,15 @@
+C:\Users\asus\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.exe
+C:\Users\asus\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.deps.json
+C:\Users\asus\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.runtimeconfig.json
+C:\Users\asus\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.dll
+C:\Users\asus\Lab05_Colas\ColasApp\bin\Debug\net10.0\ColasApp.pdb
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.AssemblyInfoInputs.cache
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.AssemblyInfo.cs
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.sourcelink.json
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.dll
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\refint\ColasApp.dll
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.pdb
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ColasApp.genruntimeconfig.cache
+C:\Users\asus\Lab05_Colas\ColasApp\obj\Debug\net10.0\ref\ColasApp.dll
